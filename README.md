@@ -1,7 +1,7 @@
 # Soil-Moisture-Sensor-STM32-HAL
  Simplest capacity soil moisture sensor +water pump control and buzzer alarm.
-* Article (rus): https://cxemka.com/63-podklyuchenie-ntc-termistora-k-stm32-izmerenie-temperatury.html
-* Youtube (sub): https://www.youtube.com/watch?v=OWJj85EfXL4
+* Article (rus): 
+* Youtube (sub): 
 ___
 * STM32F030F4P6
 * STM32CubeIDE
