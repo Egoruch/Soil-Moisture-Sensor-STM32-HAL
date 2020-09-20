@@ -1,7 +1,7 @@
 # Soil-Moisture-Sensor-STM32-HAL
  Simplest capacity soil moisture sensor +water pump control and buzzer alarm.
 * Article (rus): 
-* Youtube (sub): 
+* Youtube (sub): https://youtu.be/5fy5CmNAKOo
 ___
 * STM32F030F4P6
 * STM32CubeIDE
